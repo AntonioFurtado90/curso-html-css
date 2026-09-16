@@ -1,0 +1,2 @@
+# marcação para o nvim não alertar com a regra MD013
+.markdownlint.json
